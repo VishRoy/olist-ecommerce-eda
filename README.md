@@ -23,5 +23,3 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 - notebooks/ → Main EDA notebook
 - images/    → Key visualizations
 
-## Download the dataset from:
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
